@@ -1,0 +1,9 @@
+[submodule "php"]
+	path = php
+	url = git@github.com:emdeevy/notifier-php.git
+[submodule "js"]
+	path = js
+	url = git@github.com:emdeevy/notifier-js.git
+[submodule "css"]
+	path = css
+	url = git@github.com:emdeevy/notifier-css.git

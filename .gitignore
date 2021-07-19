@@ -1,3 +1,4 @@
 logs/
 node_modules/
 package.json
+php/classes/Database.php

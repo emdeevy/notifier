@@ -1,6 +1,7 @@
 [submodule "php"]
 	path = php
 	url = git@github.com:emdeevy/notifier-php.git
+	ignore = dirty
 [submodule "js"]
 	path = js
 	url = git@github.com:emdeevy/notifier-js.git
